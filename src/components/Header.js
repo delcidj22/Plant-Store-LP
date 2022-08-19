@@ -5,12 +5,18 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 
+
 function Header() {
   return (
       <div className="Header">
-        <h1>SEATTLE PLANT STORE</h1>
+        <div className="title">
+        <h1>SEATTLE PLANT STORE <i class="fa-solid fa-leaf fa-bounce" > </i> </h1>
+        </div>
+        
       </div>
   )
+
+
 
 }
 
