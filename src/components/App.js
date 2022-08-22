@@ -8,12 +8,14 @@ import Footer from './Footer';
 
 
 
+
+
 function App() {
   return (
 
     <Router>
       < Header /> 
-      < LandingPage />
+      < LandingPage /> 
       < Footer />
    </Router>
 

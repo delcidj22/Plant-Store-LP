@@ -37,10 +37,20 @@
 
 }
 
-.Footer {
-  background-color: #AACCA1;
-}
-
 .col-6 {
   background-color: #FAFAFA;
 }
+
+.message1 {
+  text-align: center;
+  font-family: 'Aboreto';
+  
+}
+
+.message2 {
+  font-family: 'Aboreto';
+  text-align: center;
+  font-style: italic;
+}
+
+
