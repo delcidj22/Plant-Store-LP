@@ -5,6 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter as Router } from 'react-router-dom';
 import LandingPage from './LandingPage';
 import Footer from './Footer';
+import PhotoCarousel from './Carousel';
 
 
 
@@ -16,6 +17,7 @@ function App() {
     <Router>
       < Header /> 
       < LandingPage /> 
+      < PhotoCarousel />
       < Footer />
    </Router>
 
